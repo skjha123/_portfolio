@@ -1,0 +1,66 @@
+body{
+  margin: 0px;
+  text-align: center;
+
+  font-family:verdana,sans-serif;
+
+}
+.first{
+  height:200px;
+  width: 250px;
+
+}
+.second{
+  height:200px;
+  width: 250px;
+
+}
+.third{
+  height:200px;
+  width: 250px;
+
+}
+.twitter{
+height: 50px;
+width: 50px;
+
+}
+.linkedin{
+  height: 50px;
+  width: 50px;
+}
+.top{
+  margin: 0px;
+  background-color: #def4f0;
+
+}
+.lineheight{
+  line-height: 2;
+}
+.contact-me{
+  background-color: white;
+}
+.bottom{
+  background-color: white;
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+.btn{
+  color:#11999E;
+}
+.skill-row{
+
+  color: #11999E;
+}
+h1{
+  color: #66BFBF;
+  width: 10%;
+  font-size: 30px;
+  margin:0 auto 0 auto;
+}
+h2{
+  color:#66BFBF;
+ weight:normal;
+}
